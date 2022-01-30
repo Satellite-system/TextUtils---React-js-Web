@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![screenshot-localhost_3000-2022 01 31-02_27_26](https://user-images.githubusercontent.com/67074308/151718464-bb3013e6-0923-4b55-98eb-61ac5032dc70.png)
+
+Along with Alerts, this project also supports Dark-mode
+
+![dark_mode](https://user-images.githubusercontent.com/67074308/151718500-82a8043a-5025-488d-a260-4f761e5c437c.png)
+
+To see the Working model of this project visit: https://satellite-system.github.io/TextUtils---React-js-Web/ 
+
 ## Available Scripts
 
 In the project directory, you can run:
