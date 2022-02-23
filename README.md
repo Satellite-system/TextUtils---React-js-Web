@@ -9,6 +9,7 @@ Along with Alerts, this project also supports Dark-mode
 ![dark_mode](https://user-images.githubusercontent.com/67074308/151718500-82a8043a-5025-488d-a260-4f761e5c437c.png)
 
 To see the Working model of this project visit: https://satellite-system.github.io/TextUtils---React-js-Web/ 
+or visit at https://zakaa-text-utils.herokuapp.com/
 
 ## Available Scripts
 
