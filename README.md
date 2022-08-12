@@ -1,7 +1,7 @@
 To see the Working model of this project visit: https://satellite-system.github.io/TextUtils---React-js-Web/ 
 or visit at https://zakaa-text-utils.herokuapp.com/
 
-# Getting Started with Create React App
+# Online Text Editor
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
